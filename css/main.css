@@ -3,10 +3,10 @@ html {
 }
 
 h1 {
-  font-family: 'Verdona', serif;
-  color: #fff;
+  font-family: 'Verdana', serif;
+  color: #000;
 }
 
 .banner-content {
-  text shadow:
+  text shadow: rgba(28, 14, 0, 0.5);
 }
