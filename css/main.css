@@ -1,4 +1,12 @@
+html {
+  font-family: georgia, serif;
+}
+
 h1 {
-  font-family: Georgia, serif;
+  font-family: 'Verdona', serif;
   color: #fff;
+}
+
+.banner-content {
+  text shadow:
 }
